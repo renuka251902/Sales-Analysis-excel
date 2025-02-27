@@ -31,5 +31,30 @@ Assigned Reports:
     - ❏ Top 10 products by sales
     - ❏ Sales of new products in 2021
     - ❏ Sales of top 5 countries in 2021
+  
+# Finance P&L Report
+  - P&L by Fiscal Year:
+
+    - ❏  Created a profit and loss report for fiscal years 2019 to 2021, calculating metrics such as Net Sales, Cost of 
+         Goods Sold (COGS), Gross Margin, and Gross Margin %. This report also highlighted the growth percentage between 
+         2021 and 2020.
+      
+P&L by Fiscal Months:
+
+    - ❏ Developed a profit and loss report for fiscal months (Sept-Aug), calculating metrics like Net Sales, COGS, Gross 
+         Margin, and Gross Margin % for each month. This report was segmented by individual fiscal years from 2019 to 2021.
+         
+# Skills and Tools Used
+
+- Excel Functions:
+- ❏ VLOOKUP, INDEXMATCH, XLOOKUP
+- Data Cleaning and Transformation:
+- ❏ Power Query
+- Data Analysis:
+- ❏ Pivot Tables, Power Pivot, DAX
+- Financial Metrics:
+- ❏ Net Sales, COGS, Gross Margin, Gross Margin %
+- ETL Process:
+- ❏ Extract, Transform, Load
 
 
