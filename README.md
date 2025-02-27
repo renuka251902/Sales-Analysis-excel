@@ -9,10 +9,8 @@ This repository contains the Excel-based Sales Report and Finance P&L Report pro
 - [Sales Report](#sales-report)
 - [Finance P&L Report](#finance-pl-report)
 - [Skills and Tools Used](#skills-and-tools-used)
-- [Business Terms Learned](#business-terms-learned)
-- [Acknowledgements](#acknowledgements)
 
-  # Dataset
+ # Dataset
 The dataset is sourced from AtliQ hardware and includes extensive records from 2019 to 2021. It provides detailed information on sales performance, market targets, product sales, and financial metrics
 
 # Sales Report
@@ -48,18 +46,18 @@ Assigned Reports:
 
 - Excel Functions:
   
-     ❏ VLOOKUP, INDEXMATCH, XLOOKUP
+    - ❏  VLOOKUP, INDEXMATCH, XLOOKUP
 - Data Cleaning and Transformation:
   
-     ❏ Power Query
+    - ❏  Power Query
 - Data Analysis:
   
-     ❏ Pivot Tables, Power Pivot, DAX
+    - ❏  Pivot Tables, Power Pivot, DAX
 - Financial Metrics:
   
-     ❏ Net Sales, COGS, Gross Margin, Gross Margin %
+    - ❏  Net Sales, COGS, Gross Margin, Gross Margin %
 - ETL Process:
 
-     ❏ Extract, Transform, Load
+    - ❏  Extract, Transform, Load
 
 
