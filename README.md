@@ -47,14 +47,19 @@ Assigned Reports:
 # Skills and Tools Used
 
 - Excel Functions:
-   ❏ VLOOKUP, INDEXMATCH, XLOOKUP
+  
+     ❏ VLOOKUP, INDEXMATCH, XLOOKUP
 - Data Cleaning and Transformation:
-   ❏ Power Query
+  
+     ❏ Power Query
 - Data Analysis:
-   ❏ Pivot Tables, Power Pivot, DAX
+  
+     ❏ Pivot Tables, Power Pivot, DAX
 - Financial Metrics:
-   ❏ Net Sales, COGS, Gross Margin, Gross Margin %
+  
+     ❏ Net Sales, COGS, Gross Margin, Gross Margin %
 - ETL Process:
-   ❏ Extract, Transform, Load
+
+     ❏ Extract, Transform, Load
 
 
