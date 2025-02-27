@@ -26,7 +26,7 @@ Market Performance vs Target:
 
 Assigned Reports:
 
- - Generated additional reports, including:
+ -  Generated additional reports, including:
 
     - ❏ Top 10 products by sales
     - ❏ Sales of new products in 2021
