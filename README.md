@@ -39,7 +39,7 @@ Assigned Reports:
           Goods Sold (COGS), Gross Margin, and Gross Margin %. This report also highlighted the growth percentage between 
           2021 and 2020.
       
-P&L by Fiscal Months:
+  - P&L by Fiscal Months:
 
     - ❏  Developed a profit and loss report for fiscal months (Sept-Aug), calculating metrics like Net Sales, COGS, Gross 
           Margin, and Gross Margin % for each month. This report was segmented by individual fiscal years from 2019 to 2021.
@@ -47,14 +47,14 @@ P&L by Fiscal Months:
 # Skills and Tools Used
 
 - Excel Functions:
-- ❏ VLOOKUP, INDEXMATCH, XLOOKUP
+   ❏ VLOOKUP, INDEXMATCH, XLOOKUP
 - Data Cleaning and Transformation:
-- ❏ Power Query
+   ❏ Power Query
 - Data Analysis:
-- ❏ Pivot Tables, Power Pivot, DAX
+   ❏ Pivot Tables, Power Pivot, DAX
 - Financial Metrics:
-- ❏ Net Sales, COGS, Gross Margin, Gross Margin %
+   ❏ Net Sales, COGS, Gross Margin, Gross Margin %
 - ETL Process:
-- ❏ Extract, Transform, Load
+   ❏ Extract, Transform, Load
 
 
