@@ -12,4 +12,7 @@ This repository contains the Excel-based Sales Report and Finance P&L Report pro
 - [Business Terms Learned](#business-terms-learned)
 - [Acknowledgements](#acknowledgements)
 
+  # Dataset
+The dataset is sourced from AtliQ hardware and includes extensive records from 2019 to 2021. It provides detailed information on sales performance, market targets, product sales, and financial metrics
+
 
