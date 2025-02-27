@@ -1,6 +1,6 @@
 # Sales & Financial Analysis
 
-# Project Overview
+## Project Overview
 This repository contains the Excel-based Sales Report and Finance P&L Report project I completed as part of the Codebasics course. The project uses a dataset from AtliQ hardware, containing over half a million records, to perform comprehensive sales and financial analysis.
 
 ## Table of Contents
@@ -10,10 +10,10 @@ This repository contains the Excel-based Sales Report and Finance P&L Report pro
 - [Finance P&L Report](#finance-pl-report)
 - [Skills and Tools Used](#skills-and-tools-used)
 
- # Dataset
+ ## Dataset
 The dataset is sourced from AtliQ hardware and includes extensive records from 2019 to 2021. It provides detailed information on sales performance, market targets, product sales, and financial metrics
 
-# Sales Report
+## Sales Report
 Net Sales:
 
   - Created a report on Customer Net Sales performance for AtliQ from 2019 to 2021 based on region, country, and division.
@@ -30,7 +30,7 @@ Assigned Reports:
     - ❏ Sales of new products in 2021
     - ❏ Sales of top 5 countries in 2021
   
-# Finance P&L Report
+## Finance P&L Report
   - P&L by Fiscal Year:
 
     - ❏  Created a profit and loss report for fiscal years 2019 to 2021, calculating metrics such as Net Sales, Cost of 
@@ -42,7 +42,7 @@ Assigned Reports:
     - ❏  Developed a profit and loss report for fiscal months (Sept-Aug), calculating metrics like Net Sales, COGS, Gross 
           Margin, and Gross Margin % for each month. This report was segmented by individual fiscal years from 2019 to 2021.
          
-# Skills and Tools Used
+## Skills and Tools Used
 
 - Excel Functions:
   
